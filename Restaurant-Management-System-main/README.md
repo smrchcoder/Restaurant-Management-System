@@ -112,8 +112,7 @@ Make sure you have the following prerequisites installed on your system:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Abdul12527/Restaurant-Managements-Services.git
-   
+   git clone 'https://github.com/smrchcoder/Restaurant-Management-System.git'   
 2. Navigate to the project directory
 
     ```bash
